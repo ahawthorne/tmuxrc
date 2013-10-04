@@ -1,9 +1,9 @@
-## Screenshot
-
-![Screenshot](http://dl.dropbox.com/u/1658623/tmuxrc.png)
-
 ## Installation
 
+Clone to ~/.tmux and symlink ~/.tmux/tmux.conf -> ~/.tmux.conf
+
+or
+
 ``` bash
-$ curl -Lo- https://raw.github.com/yesmeck/tmuxrc/master/bootstrap.sh | bash
+$ curl -Lo- https://raw.github.com/ahawthorne/tmuxrc/master/bootstrap.sh | bash
 ```
